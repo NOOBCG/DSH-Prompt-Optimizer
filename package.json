@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "private": true,
   "description": "Adds a prompt-optimizer button to the chat composer that rewrites the current draft into a clearer, more actionable prompt.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NOOBCG/composer-prompt-optimizer.git"
+  },
+  "homepage": "https://github.com/NOOBCG/composer-prompt-optimizer#readme",
+  "bugs": {
+    "url": "https://github.com/NOOBCG/composer-prompt-optimizer/issues"
+  },
   "type": "module",
   "exports": {
     ".": "./index.js",
