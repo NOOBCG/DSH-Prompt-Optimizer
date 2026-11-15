@@ -1,5 +1,7 @@
 # DSH-Prompt Optimizer
 
+> **English** — A DeepSeek Harness (DSH) bundle that adds an **Optimize** button to the chat composer. It rewrites the current draft into a structured, ready-to-use prompt (role / task / input / output / examples / steps) and writes the result back into the input box without sending it. Ships a breathing progress bar above or below the composer, selectable button icons, a Ctrl+right-click shortcut, and a settings page. `client.js` is prebuilt, so no build step is needed: install this directory through **Plugins → Add plugin**.
+
 一个 [DeepSeek Harness](https://github.com/deepseek-ai)（DSH）的本地 bundle 插件：在聊天输入框工具条上加一个「优化」按钮，把当前草稿改写成一份结构化、可直接执行的提示词，并写回输入框继续编辑。
 
 > 本仓库是插件的源码与可安装产物（`client.js` 为已构建文件）。插件只安装在当前电脑的 DSH profile 里，不随账号同步。
