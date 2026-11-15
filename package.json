@@ -5,11 +5,11 @@
   "description": "Adds a prompt-optimizer button to the chat composer that rewrites the current draft into a clearer, more actionable prompt.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NOOBCG/composer-prompt-optimizer.git"
+    "url": "git+https://github.com/NOOBCG/DSH-Prompt-Optimizer.git"
   },
-  "homepage": "https://github.com/NOOBCG/composer-prompt-optimizer#readme",
+  "homepage": "https://github.com/NOOBCG/DSH-Prompt-Optimizer#readme",
   "bugs": {
-    "url": "https://github.com/NOOBCG/composer-prompt-optimizer/issues"
+    "url": "https://github.com/NOOBCG/DSH-Prompt-Optimizer/issues"
   },
   "type": "module",
   "exports": {
@@ -39,3 +39,4 @@
     }
   }
 }
+

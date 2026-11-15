@@ -1,4 +1,4 @@
-# composer-prompt-optimizer
+# DSH-Prompt Optimizer
 
 一个 [DeepSeek Harness](https://github.com/deepseek-ai)（DSH）的本地 bundle 插件：在聊天输入框工具条上加一个「优化」按钮，把当前草稿改写成一份结构化、可直接执行的提示词，并写回输入框继续编辑。
 
