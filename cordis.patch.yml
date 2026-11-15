@@ -1,0 +1,9 @@
+# Inserts the Host half of the prompt optimizer: the model call that turns a
+# composer draft into a structured, ready-to-use prompt, reached from the
+# Client button through the authenticated /api route.
+#
+# No row config on purpose: limits come from the plugin defaults
+# (maxInputChars 12000, maxOutputTokens 3000) so they live in one place.
+- insert:
+    - id: composer-prompt-optimizer
+      name: '@local/composer-prompt-optimizer'

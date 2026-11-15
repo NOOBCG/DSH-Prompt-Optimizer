@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "title": "Prompt Optimizer",
+    "description": "Adds an Optimize button to the composer that turns the current draft into a structured, ready-to-use prompt (role, task, input, output, examples, steps) and writes it back into the input box."
+  },
+  "button": {
+    "label": "Optimize prompt",
+    "busy": "Optimizing…",
+    "empty": "Type a draft first",
+    "failed": "Optimization failed"
+  }
+}
