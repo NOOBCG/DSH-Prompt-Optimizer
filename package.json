@@ -1,7 +1,6 @@
 {
-  "name": "@local/composer-prompt-optimizer",
+  "name": "@noobcg/dsh-prompt-optimizer",
   "version": "1.0.0",
-  "private": true,
   "description": "Adds a prompt-optimizer button to the chat composer that rewrites the current draft into a clearer, more actionable prompt.",
   "repository": {
     "type": "git",
@@ -10,6 +9,9 @@
   "homepage": "https://github.com/NOOBCG/DSH-Prompt-Optimizer#readme",
   "bugs": {
     "url": "https://github.com/NOOBCG/DSH-Prompt-Optimizer/issues"
+  },
+  "engines": {
+    "dsh": ">=0.2.2-rc.3 <0.3.0"
   },
   "type": "module",
   "exports": {
@@ -24,7 +26,8 @@
     "cordis.patch.yml",
     "locale/*.json",
     "icon.svg",
-    "INSTALL.md"
+    "INSTALL.md",
+    "README.md"
   ],
   "dsh": {
     "bundle": {

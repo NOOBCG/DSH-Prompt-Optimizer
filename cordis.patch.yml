@@ -6,4 +6,4 @@
 # (maxInputChars 12000, maxOutputTokens 3000) so they live in one place.
 - insert:
     - id: composer-prompt-optimizer
-      name: '@local/composer-prompt-optimizer'
+      name: '@noobcg/dsh-prompt-optimizer'

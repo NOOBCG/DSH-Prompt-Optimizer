@@ -42,7 +42,7 @@
 
 ## 卸载
 
-让 agent 执行 `plugin_manager` 的 `remove_bundle`，target 为 `@local/composer-prompt-optimizer`，
+让 agent 执行 `plugin_manager` 的 `remove_bundle`，target 为 `@noobcg/dsh-prompt-optimizer`，
 或直接在插件管理页禁用它。
 
 ## 兼容性

@@ -9,7 +9,7 @@
  * round trip; the draft rewrite itself still goes through the Host model call.
  */
 window.__ModuleLoader__.load({
-  id: '@local/composer-prompt-optimizer',
+  id: '@noobcg/dsh-prompt-optimizer',
   factory(require) {
     const React = require('react')
     const h = React.createElement
